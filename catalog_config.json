@@ -1,5 +1,5 @@
 {
-  "comment": "BR Item Shop Config",
+  "//": "BR Item Shop Config",
   "daily1": {
     "itemGrants": [
       "AthenaCharacter:CID_326_Athena_Commando_F_WavyMan"
