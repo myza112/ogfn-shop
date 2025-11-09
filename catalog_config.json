@@ -1,5 +1,5 @@
 {
-  "//": "BR Item Shop Config",
+  "//": "Battle Royale Item Shop Config",
   "daily1": {
     "itemGrants": [
       "AthenaCharacter:CID_326_Athena_Commando_F_WavyMan"
@@ -20,39 +20,9 @@
   },
   "daily4": {
     "itemGrants": [
-      "AthenaBackpack:BID_202_WavyManFemale"
+      "AthenaDance:EID_Chicken"
     ],
-    "price": 1200
-  },
-  "daily5": {
-    "itemGrants": [
-      "AthenaGlider:Glider_ID_068_GarageBand"
-    ],
-    "price": 2000
-  },
-  "daily6": {
-    "itemGrants": [
-      "AthenaPickaxe:Pickaxe_ID_121_RobotRed"
-    ],
-    "price": 800
-  },
-  "daily7": {
-    "itemGrants": [
-      "AthenaLoadingscreen:LSID_025_Raven"
-    ],
-    "price": 200
-  },
-  "daily8": {
-    "itemGrants": [
-      "AthenaEmoji:Emoji_HotDawg"
-    ],
-    "price": 200
-  },
-  "daily9": {
-    "itemGrants": [
-      "AthenaCharacter:CID_286_Athena_Commando_F_NeonCat"
-    ],
-    "price": 2000
+    "price": 500
   },
   "featured1": {
     "itemGrants": [
@@ -60,16 +30,4 @@
     ],
     "price": 800
   },
-  "featured2": {
-    "itemGrants": [
-      "AthenaCharacter:CID_173_Athena_Commando_F_StarfishUniform"
-    ],
-    "price": 1500
-  },
-  "featured3": {
-    "itemGrants": [
-      "AthenaDance:EID_PirateGold"
-    ],
-    "price": 800
-  }
 }
