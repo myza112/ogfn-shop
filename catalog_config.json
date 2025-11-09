@@ -62,13 +62,13 @@
   },
   "featured2": {
     "itemGrants": [
-      "AthenaCharacter:CID_173_Athena_Commando_F_StarfishUniform"
+      "AthenaCharacter:"
     ],
     "price": 1500
   },
   "featured3": {
     "itemGrants": [
-      "AthenaDance:EID_PirateGold"
+      "AthenaDance:"
     ],
     "price": 800
   }
