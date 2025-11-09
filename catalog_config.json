@@ -18,11 +18,12 @@
     ],
     "price": 500
   },
-  "daily3": {
+  "daily4": {
     "itemGrants": [
       "AthenaDance:EID_Chicken"
     ],
     "price": 500
+  },
   "featured1": {
     "itemGrants": [
       "AthenaCharacter:CID_401_Athena_Commando_M_Miner"
