@@ -23,6 +23,12 @@
       "AthenaDance:EID_Chicken"
     ],
     "price": 500
+      },
+  "daily5": {
+    "itemGrants": [
+      "AthenaDance:EID_Chicken"
+    ],
+    "price": 500
   },
   "featured1": {
     "itemGrants": [
