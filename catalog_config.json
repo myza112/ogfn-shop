@@ -1,33 +1,39 @@
 {
-  "//": "Battle Royale Item Shop Config",
-  "daily1": {
-    "itemGrants": [
-      "AthenaCharacter:CID_326_Athena_Commando_F_WavyMan"
-    ],
-    "price": 1200
-  },
-  "daily2": {
-    "itemGrants": [
-      "AthenaCharacter:CID_199_Athena_Commando_F_BlueSamurai"
-    ],
-    "price": 2000
-  },
-  "daily3": {
-    "itemGrants": [
-      "AthenaDance:EID_Chicken"
-    ],
-    "price": 500
-  },
-  "daily4": {
-    "itemGrants": [
-      "AthenaCharacter:CID_A_210_Athena_Commando_F_RenegadeSkull"
-    ],
-    "price": 500
-  },
-  "featured1": {
-    "itemGrants": [
-      "AthenaCharacter:CID_401_Athena_Commando_M_Miner"
-    ],
-    "price": 800
-  }
+    "//": "BR Item Shop Config",
+    "daily1": {
+        "itemGrants": ["AthenaDance:EID_DreamFeet"],
+        "price": 500
+    },
+    "daily2": {
+        "itemGrants": ["AthenaPickaxe:Pickaxe_ID_175_Tropical"],
+        "price": 500
+    },
+    "daily3": {
+        "itemGrants": ["AthenaMusicPack:MusicPack_012_ElectroSwing"],
+        "price": 200
+    },
+    "daily4": {
+        "itemGrants": ["AthenaEmoji:Emoji_Birthday2018"],
+        "price": 0
+    },
+    "daily5": {
+        "itemGrants": ["AthenaLoadingScreen:LSID_095_Prisoner"],
+        "price": 0
+    },
+    "daily6": {
+        "itemGrants": ["AthenaGlider:Glider_ID_068_GarageBand"],
+        "price": 1500
+    },
+    "featured1": {
+        "itemGrants": ["AthenaCharacter:CID_395_Athena_Commando_F_ShatterFly","AthenaBackpack:BID_256_ShatterFly"],
+        "price": 1200
+    },
+    "featured2": {
+        "itemGrants": ["AthenaCharacter:CID_394_Athena_Commando_M_MoonlightAssassin","AthenaBackpack:BID_255_MoonlightAssassin"],
+        "price": 1500
+    },
+        "featured3": {
+        "itemGrants": ["AthenaItemWrap:Wrap_051_ShatterFly"],
+        "price": 500
+    }
 }
